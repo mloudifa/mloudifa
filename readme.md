@@ -1,123 +1,127 @@
+<h1 align="center">🌀 Welcome to mloudifa's GitHub</h1>
 <p align="center">
-  <h1 align="center">👋 Welcome to mloudifa's GitHub</h1>
-  <p align="center">
-    Backend • Systems • Game Engine Development
-  </p>
+  Backend • Systems • Game Engine Development
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I’m a **self-taught backend & systems developer** who enjoys building software from scratch.  
-My focus is on **fundamentals, performance, and clean architecture**, whether it’s a backend API, a voxel engine, or a networking system.
-
-I prefer **understanding how things work internally** rather than relying on abstractions.
+I’m a self-taught **systems & backend developer** focused on fundamentals, performance, and clean architecture.  
+I build things from scratch — voxel engines, backend APIs, and networking systems — to deeply understand how they work.
 
 ---
 
 ## 🛠️ Core Skills
 
-- ⚙️ Systems Programming (C / C++)
+- ⚙️ C / C++ Systems Programming
 - 🔐 Backend APIs (NestJS, JWT, MySQL)
-- 🎮 Game & Engine Development (Voxel Engines, ECS)
+- 🎮 Voxel Engine & ECS Architecture
 - 🌐 Networking (Sockets, IRC-like servers)
-- 🧩 Clean Architecture & Modular Design
 
 ---
 
-## 🌀 Stand Skill System (JoJo Style)
+## 🌀 Stand Parameters (JoJo Style)
 
 <p align="center"><b>STAND NAME:</b> 「VOID CHUNK」</p>
 
 <p align="center">
-<svg width="360" height="360" viewBox="0 0 200 200">
+<svg width="420" height="420" viewBox="0 0 400 400">
 
   <!-- Background -->
-  <rect x="0" y="0" width="200" height="200" fill="#0d1117"/>
+  <rect width="400" height="400" fill="#0d1117"/>
 
-  <!-- Outer Circle -->
-  <circle cx="100" cy="100" r="85" fill="none" stroke="#30363d" stroke-width="2"/>
+  <!-- Outer Ring -->
+  <circle cx="200" cy="200" r="170" fill="none" stroke="#c9d1d9" stroke-width="2"/>
+
+  <!-- Inner Ring -->
+  <circle cx="200" cy="200" r="120" fill="none" stroke="#30363d" stroke-width="1"/>
 
   <!-- Axis Lines -->
-  <line x1="100" y1="100" x2="100" y2="20" stroke="#58a6ff" stroke-width="1.5"/>
-  <line x1="100" y1="100" x2="165" y2="55" stroke="#58a6ff" stroke-width="1.5"/>
-  <line x1="100" y1="100" x2="165" y2="145" stroke="#58a6ff" stroke-width="1.5"/>
-  <line x1="100" y1="100" x2="100" y2="180" stroke="#58a6ff" stroke-width="1.5"/>
-  <line x1="100" y1="100" x2="35" y2="145" stroke="#58a6ff" stroke-width="1.5"/>
-  <line x1="100" y1="100" x2="35" y2="55" stroke="#58a6ff" stroke-width="1.5"/>
+  <g stroke="#c9d1d9" stroke-width="1">
+    <line x1="200" y1="200" x2="200" y2="40"/>
+    <line x1="200" y1="200" x2="340" y2="120"/>
+    <line x1="200" y1="200" x2="340" y2="280"/>
+    <line x1="200" y1="200" x2="200" y2="360"/>
+    <line x1="200" y1="200" x2="60" y2="280"/>
+    <line x1="200" y1="200" x2="60" y2="120"/>
+  </g>
 
-  <!-- Skill Polygon -->
+  <!-- Skill Polygon (A=strong, E=weak) -->
   <polygon
     points="
-      100,35
-      150,65
-      145,135
-      100,160
-      55,135
-      60,65"
-    fill="#58a6ff55"
-    stroke="#58a6ff"
+      200,70
+      305,130
+      290,260
+      200,310
+      110,260
+      120,130"
+    fill="#ff6b6b55"
+    stroke="#ff6b6b"
     stroke-width="2"
   />
 
   <!-- Stat Labels -->
-  <text x="100" y="15" fill="#c9d1d9" font-size="8" text-anchor="middle">POWER</text>
-  <text x="170" y="50" fill="#c9d1d9" font-size="8">SPEED</text>
-  <text x="170" y="150" fill="#c9d1d9" font-size="8">RANGE</text>
-  <text x="100" y="195" fill="#c9d1d9" font-size="8" text-anchor="middle">DURABILITY</text>
-  <text x="10" y="150" fill="#c9d1d9" font-size="8">PRECISION</text>
-  <text x="10" y="50" fill="#c9d1d9" font-size="8">POTENTIAL</text>
+  <g fill="#ffffff" font-size="12" font-family="monospace">
+    <text x="200" y="25" text-anchor="middle">POWER</text>
+    <text x="360" y="115">SPEED</text>
+    <text x="360" y="290">RANGE</text>
+    <text x="200" y="395" text-anchor="middle">DURABILITY</text>
+    <text x="10" y="290">PRECISION</text>
+    <text x="10" y="115">POTENTIAL</text>
+  </g>
 
-  <!-- Language Labels (Around the Circle) -->
-  <text x="100" y="5" fill="#ffffff" font-size="7" text-anchor="middle">C / C++</text>
-  <text x="185" y="60" fill="#ffffff" font-size="7" text-anchor="end">TypeScript</text>
-  <text x="185" y="140" fill="#ffffff" font-size="7" text-anchor="end">SQL</text>
-  <text x="100" y="198" fill="#ffffff" font-size="7" text-anchor="middle">Node.js</text>
-  <text x="15" y="140" fill="#ffffff" font-size="7">Raylib</text>
-  <text x="15" y="60" fill="#ffffff" font-size="7">Networking</text>
+  <!-- Grade Letters -->
+  <g fill="#ff6b6b" font-size="14" font-family="monospace" font-weight="bold">
+    <text x="200" y="90" text-anchor="middle">A</text>
+    <text x="285" y="140">B</text>
+    <text x="275" y="255">B</text>
+    <text x="200" y="290" text-anchor="middle">A</text>
+    <text x="125" y="255">C</text>
+    <text x="135" y="140">A</text>
+  </g>
+
+  <!-- Language Labels Around Circle -->
+  <g fill="#c9d1d9" font-size="11" font-family="monospace">
+    <text x="200" y="10" text-anchor="middle">C / C++</text>
+    <text x="390" y="120" text-anchor="end">TypeScript</text>
+    <text x="390" y="280" text-anchor="end">SQL</text>
+    <text x="200" y="390" text-anchor="middle">Node.js</text>
+    <text x="10" y="280">Raylib</text>
+    <text x="10" y="120">Networking</text>
+  </g>
 
 </svg>
 </p>
 
 ---
 
-### 📊 Stand Parameters Explained
+### 📊 Stand Stats Meaning
 
-- **POWER** → Low-level systems & C/C++ engine core  
-- **SPEED** → Fast learning & iteration  
-- **RANGE** → Backend + Engine versatility  
-- **DURABILITY** → Stable architecture & scalability  
-- **PRECISION** → Rendering, ECS, optimization  
-- **POTENTIAL** → High growth ceiling  
+- **POWER (A)** → C/C++ systems & engine core
+- **SPEED (B)** → Fast learner & iteration
+- **RANGE (B)** → Backend + Engine versatility
+- **DURABILITY (A)** → Stable architecture
+- **PRECISION (C)** → Rendering & ECS tuning
+- **POTENTIAL (A)** → High growth ceiling
 
-> *“This Stand grows stronger through knowledge and discipline.”*
-
----
-
-## 🧩 Languages & Technologies
-
-### Languages
-- C
-- C++
-- TypeScript
-- JavaScript
-- SQL
-
-### Frameworks & Tools
-- NestJS
-- Node.js
-- Raylib
-- MySQL
-- Git / Linux / WSL
+> *“A Stand grows stronger as its user masters the fundamentals.”*
 
 ---
 
-## 📫 Connect With Me
+## 🧩 Languages & Tools
+
+**Languages:**  
+C • C++ • TypeScript • JavaScript • SQL  
+
+**Frameworks & Tools:**  
+NestJS • Node.js • Raylib • MySQL • Git • Linux • WSL  
+
+---
+
+## 📫 Connect
 
 - 🐙 GitHub: https://github.com/mloudifa  
 - 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK_HERE  
 
----
-
-⭐ If you like engine dev, backend systems, or low-level programming — feel free to explore my repos.
+⭐ Feel free to explore my repositories.
