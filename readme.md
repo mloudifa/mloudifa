@@ -12,3 +12,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mloudifa&show_icons=true&locale=en&layout=compact" alt="mloudifa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mloudifa&show_icons=true&locale=en" alt="mloudifa" /></p>
+
+https://badge.mediaplus.ma/starryblue/mloudifa
