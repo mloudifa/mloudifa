@@ -1,92 +1,114 @@
 # 👋 Hi, I'm Broly
 
-🚀 **Backend & Systems Developer**  
-🎮 **Game Engine / Voxel Engine Enthusiast**  
-🧠 **Self-taught programmer focused on fundamentals**
+🚀 Backend & Systems Developer  
+🎮 Game Engine & Voxel Engine Enthusiast  
+🧠 Self-taught programmer focused on fundamentals
 
-I enjoy building things **from the ground up** — from low-level C/C++ systems to scalable backend architectures.  
-My work blends **performance, clean design, and learning-by-building**.
+I enjoy building software **from the ground up** — low-level systems, backend APIs, and performance-oriented architectures.  
+I focus on **clean design, scalability, and deep understanding** rather than shortcuts.
 
 ---
 
-## 🧩 What I’m Working On
+## 🧠 Core Skills & Progress
 
-- 🧱 **Voxel Engine (C++ / Raylib)**
-  - Chunk-based world system
+### 🧩 Programming Languages
+
+**C / C++**  
+![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+██████████████░░░░ **80%**
+
+**TypeScript / JavaScript**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+████████████░░░░░░ **65%**
+
+**SQL**  
+![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+██████████░░░░░░░░ **55%**
+
+---
+
+### 🔐 Backend & APIs
+
+**NestJS**  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
+████████████░░░░░░ **65%**
+
+**Node.js**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+███████████░░░░░░░ **60%**
+
+**JWT / Auth Systems**  
+████████████░░░░░░ **70%**
+
+---
+
+### 🎮 Game / Engine Development
+
+**Voxel Engine (C++)**  
+![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white)  
+██████████████░░░░ **75%**
+
+**ECS Architecture**  
+███████████░░░░░░░ **60%**
+
+**Rendering & Optimization**  
+████████████░░░░░░ **65%**
+
+---
+
+### 🌐 Networking & Systems
+
+**Socket Programming (C++)**  
+████████████░░░░░░ **65%**
+
+**IRC Server Architecture**  
+██████████░░░░░░░░ **55%**
+
+---
+
+## 🧩 Current Projects
+
+- 🧱 **Voxel Engine**
+  - Chunk-based world
   - Fast chunk meshing & vertex batching
-  - ECS-style architecture
+  - ECS-based architecture
   - Rendering optimizations
 
 - 🔐 **Authentication & User Management API**
-  - Built with **NestJS + MySQL**
+  - NestJS + MySQL
   - JWT authentication
   - Role-based access control
-  - Modular, scalable backend design
 
 - 🏢 **Multi-Tenant SaaS Backend**
-  - Organization-based data isolation
-  - User roles & permissions
-  - Designed for scalability
+  - Organization-based isolation
+  - Scalable backend design
 
 - 🌐 **IRC Server (C++)**
-  - Socket-based networking
-  - Channel creation & messaging
-  - Core written in C++ with layered architecture
+  - Socket-based communication
+  - Channels, messaging, and core protocol logic
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Environment
 
-### Languages
-- **C / C++** – systems programming, game engines, networking  
-- **TypeScript / JavaScript** – backend APIs  
-- **SQL** – relational database design  
-
-### Backend
-- **NestJS**
-- **Node.js**
-- **JWT Authentication**
-- **REST APIs**
-- **MySQL / TypeORM**
-
-### Game / Engine Dev
-- **Raylib**
-- **ECS concepts**
-- **Voxel rendering**
-- **Chunk meshing & optimization**
-
-### Tools & Concepts
-- Linux / WSL
-- Git & GitHub
-- Low-level memory & performance awareness
-- Networking fundamentals
-- Clean architecture & modular design
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-0A0A0A?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
-## 🧠 How I Learn
+## 📈 GitHub Stats
 
-- Build real systems instead of tutorials
-- Focus on **why things work**, not just *how*
-- Break complex problems into fundamentals
-- Prefer performance-aware and scalable designs
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mloudifa&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mloudifa&layout=compact&theme=tokyonight)
 
 ---
 
-## 📈 Goals
+## 📫 Connect With Me
 
-- Become strong in **systems programming & backend engineering**
-- Build production-ready engines and services
-- Master performance optimization and architecture
-- Contribute to open-source in low-level or backend projects
+- 🐙 GitHub: https://github.com/mloudifa  
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK_HERE  
 
 ---
 
-## 📫 Contact
-
-- GitHub: **@yourusername**
-- Portfolio: *Coming soon*
-
----
-
-> “Learn the fundamentals. The rest is tools.”
+> *“Strong fundamentals beat fancy tools.”*
